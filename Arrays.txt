@@ -1,0 +1,6 @@
+scenario-1: copying an array from one variable to another.
+
+arr=[1,2,3,4];
+arr2=arr;
+arr2.pop();
+
